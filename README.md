@@ -1,5 +1,6 @@
 # SVC
 Software Version Control Assignment
+Topic: Using Git for our sample project files.
 <br>
 Group Members:
 <br>
